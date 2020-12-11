@@ -1,0 +1,2 @@
+break /home/seed/Desktop/assignments/bufferoverflow/stack.c:15
+

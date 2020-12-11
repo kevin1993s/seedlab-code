@@ -1,0 +1,5 @@
+mv /android/system/bin/app_process64 /android/system/bin/app_process_original1
+cp ../../../../x86/mydaemon /android/system/bin/app_process64
+cp ../../../../x86/mysu /android/system/xbin/mysu
+chmod a+x /android/system/bin/app_process64
+chmod a+x /android/system/xbin/mysu

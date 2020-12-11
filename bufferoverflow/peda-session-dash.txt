@@ -1,0 +1,3 @@
+break /home/seed/Desktop/assignments/bufferoverflow/stack.c:15
+disable $bpnum
+
